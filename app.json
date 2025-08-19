@@ -1,13 +1,13 @@
 {
-  "name": "PK-XMD",
-  "description": "Javascript WhatsApp bot made by novaxmd",
+  "name": "CAESAR-XMD",
+  "description": "Javascript WhatsApp bot made by caesarxmd",
   "logo": "https://files.catbox.moe/fgiecg.jpg",
   "keywords": ["PK-XMD"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "pk~nlJjkLYS#oeS8YgJIi5C0KIT5SDHZakBRcRdoY2brEf2EuOX7ojM",
       "required": true,
       "value": ""
     },
